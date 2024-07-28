@@ -4,10 +4,8 @@
 - 💞️ I’m looking to collaborate on various problem-solving projects...
 - 🌱 I'm a quick learner with a strong desire to grow in the tech industry.
 
-
+Games created: 
+Man vs dragon : https://man-vs-dragon-js.vercel.app/
 Low code projects:
 https://the-visionary-entrepreneur-383.framer.ai/
-<!---
-coll254-strath/coll254-strath is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
