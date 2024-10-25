@@ -3,8 +3,8 @@
 # 💫 About Me:
 I'm focused on building robust web applications while learning best practices in software development.
 <br>👀 I'm a passionate and results-oriented individual with a strong interest in software development and finance.
-<br>🌱 I am a Javascript/Python fullstack developer[React js,Django,Express js]
-<br>💞️ I’m looking to collaborate on problem-solving projects and huge-impact ideas.
+<br>🌱 I am a Javascript/Python fullstack developer[Next js, React js,Django,Express js]
+<br>💞️ I’m looking to collaborate on problem-solving projects and high-impact ideas.
 <br>🌱 I'm a quick learner with a strong desire to grow in the tech industry.
 
 
