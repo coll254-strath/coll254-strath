@@ -1,9 +1,11 @@
 - 👋 Hi, I’m Collins Muka.
+
 # 💫 About Me:
 I'm focused on building robust web applications while learning best practices in software development.
 <br>👀 I'm a passionate and results-oriented individual with a strong interest in software development and finance.
 <br>🌱 I am a Javascript/Python fullstack developer[React js,Django,Express js]
-<br>💞️ I’m looking to collaborate on various problem-solving projects...<br>🌱 I'm a quick learner with a strong desire to grow in the tech industry.
+<br>💞️ I’m looking to collaborate on problem-solving projects and huge-impact ideas.
+<br>🌱 I'm a quick learner with a strong desire to grow in the tech industry.
 
 💡 My Development Philosophy
 
@@ -33,6 +35,5 @@ Open Source Enthusiast: I believe in the power of community-driven development
 Games created: 
 Man vs dragon : https://man-vs-dragon-js.vercel.app/
 
-Low code projects:
-https://the-visionary-entrepreneur-383.framer.ai/
+
 
