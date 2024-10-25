@@ -1,6 +1,16 @@
 - 👋 Hi, I’m Collins Muka.
 # 💫 About Me:
-I'm currently working on full stack web development and CI/CD pipelines.<br>👀 I'm a passionate and results-oriented individual with a strong interest in software development and finance...<br>🌱 I am a Javascript/Python fullstack developer[React js,Django,Express js]<br>💞️ I’m looking to collaborate on various problem-solving projects...<br>🌱 I'm a quick learner with a strong desire to grow in the tech industry.
+I'm focused on building robust web applications while learning best practices in software development.
+<br>👀 I'm a passionate and results-oriented individual with a strong interest in software development and finance.
+<br>🌱 I am a Javascript/Python fullstack developer[React js,Django,Express js]
+<br>💞️ I’m looking to collaborate on various problem-solving projects...<br>🌱 I'm a quick learner with a strong desire to grow in the tech industry.
+
+💡 My Development Philosophy
+
+Clean Code Advocate: I believe in writing maintainable, well-documented code
+Continuous Learner: Technology evolves, and so should we
+Problem Solver: I enjoy breaking down complex problems into manageable solutions
+Open Source Enthusiast: I believe in the power of community-driven development
 
 
 # 💻 Tech Stack:
