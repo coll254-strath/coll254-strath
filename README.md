@@ -6,6 +6,7 @@ I'm focused on building robust web applications while learning best practices in
 <br>🌱 I am a Javascript/Python fullstack developer[Next js, React js,Django,Express js]
 <br>💞️ I’m looking to collaborate on problem-solving projects and high-impact ideas.
 <br>🌱 I'm a quick learner with a strong desire to grow in the tech industry.
+Portfolio page: https://v0-next-ts-portfolio-site.vercel.app/
 
 
 
