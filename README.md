@@ -1,11 +1,11 @@
-- 👋 Hi, I’m Collins Muka.
+- 👋 Hi, I am Collins Muka.
 
 # 💫 About Me:
-I'm focused on building robust web applications while learning best practices in software development.
-<br>👀 I'm a passionate and results-oriented individual with a strong interest in software development and finance.
-<br>🌱 I am a Javascript/Python fullstack developer[Next js, React js,Django,Express js]
-<br>💞️ I’m looking to collaborate on problem-solving projects and high-impact ideas.
-<br>🌱 I'm a quick learner with a strong desire to grow in the tech industry.
+I'm focused on building robust software while actively building proper,scalable and low-bloat software.
+<br>👀 I am a passionate and results-oriented individual with a strong interest in software development and finance.
+<br>🌱 I am a Javascript/Python/Go developer[Next js, React js,Django,Express js]
+<br>💞️ I am looking to collaborate on high impact projects and smart 
+
 Portfolio page: https://v0-next-ts-portfolio-site.vercel.app/
 
 
